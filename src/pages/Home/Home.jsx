@@ -3,7 +3,7 @@ import "./Home.css"
 import Navbar from '../../components/Navbar/Navbar'
 import Hero_banner from '../../assets/hero_banner.jpg'
 import Hero_title from '../../assets/hero_title.png'
-import Play_icon from '../../assets/Play_icon.png'
+import Play_icon from '../../assets/play_icon.png'
 import Info_icon from '../../assets/info_icon.png'
 import TitleCards from '../../components/TitleCards/TitleCards'
 import Footer from '../../components/Footer/Footer'
