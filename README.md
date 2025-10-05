@@ -19,4 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 A React.js project that replicates Netflix UI.
 
-![Preview](preview.png)
+![Preview](Preview.png)
