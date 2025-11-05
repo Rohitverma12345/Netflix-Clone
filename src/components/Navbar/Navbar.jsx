@@ -43,7 +43,7 @@ const Navbar = () => {
                 <img src={Profile} alt='' className='profile'/>
                 <img src={Caret} alt=''/>
                 <div className="dropdown">
-                  <p onClick={()=>{logout()}}>Sign Out Of Netflix</p>
+                  <p onClick={()=>{logout()}}>Sign Out Of Myflix</p>
                 </div>
             </div>
       </div>
